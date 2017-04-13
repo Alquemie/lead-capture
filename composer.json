@@ -1,0 +1,19 @@
+{
+    "name": "alquemie/gravitygate",
+    "description": "Gated content in WordPress using Gravity Forms",
+    "authors": [
+        {
+            "name": "Chris Carrel",
+            "email": "plugins@alquemie.net"
+        }
+    ],
+    "homepage": "https://www.gravityaddons.com/gravity-gate/",
+    "license": "GPL-3.0",
+    "type": "wordpress-plugin",
+    "require": {
+  		"php": ">=5.6"
+    },
+    "config": {
+        "vendor-dir": "lib"
+    }
+}
